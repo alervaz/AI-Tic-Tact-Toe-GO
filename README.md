@@ -10,6 +10,6 @@ Why you made it? I made this so you can play Tic-Tac-Toe in your terminal while 
 
 Who are you? I am a solo programmer learning to code in: GO, C#, Kotlin also intereseted on Flutter, Mobile dev and Web dev
 
-Any recomendations ow can I contact you? You can contact me via email at aleraz@yahoo.com
+Any recomendations how can I contact you? You can contact me via email at aleraz@yahoo.com
 
 Have a nice day! #100DaysOfProgramming
